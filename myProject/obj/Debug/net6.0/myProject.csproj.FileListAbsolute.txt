@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\myProject\myProject\bin\Debug\net6.0\myProject.exe
+C:\Users\missh\source\repos\CIT195\myProject\myProject\bin\Debug\net6.0\myProject.deps.json
+C:\Users\missh\source\repos\CIT195\myProject\myProject\bin\Debug\net6.0\myProject.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\myProject\myProject\bin\Debug\net6.0\myProject.dll
+C:\Users\missh\source\repos\CIT195\myProject\myProject\bin\Debug\net6.0\myProject.pdb
+C:\Users\missh\source\repos\CIT195\myProject\myProject\obj\Debug\net6.0\myProject.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\myProject\myProject\obj\Debug\net6.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\myProject\myProject\obj\Debug\net6.0\myProject.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\myProject\myProject\obj\Debug\net6.0\myProject.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\myProject\myProject\obj\Debug\net6.0\myProject.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\myProject\myProject\obj\Debug\net6.0\myProject.dll
+C:\Users\missh\source\repos\CIT195\myProject\myProject\obj\Debug\net6.0\refint\myProject.dll
+C:\Users\missh\source\repos\CIT195\myProject\myProject\obj\Debug\net6.0\myProject.pdb
+C:\Users\missh\source\repos\CIT195\myProject\myProject\obj\Debug\net6.0\myProject.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\myProject\myProject\obj\Debug\net6.0\ref\myProject.dll
